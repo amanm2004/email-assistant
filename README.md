@@ -38,7 +38,7 @@ mvn spring-boot:run # If using Maven
 
 ---
 
-🌐 Frontend (JavaScript)
+### 🌐 Frontend (JavaScript)
 Open the frontend/ directory in VS Code.
 
 If it's a web app:
