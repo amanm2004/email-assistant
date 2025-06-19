@@ -38,7 +38,7 @@ mvn spring-boot:run # If using Maven
 
 ---
 
-### 🌐 Frontend (JavaScript)
+#### 🌐 Frontend (JavaScript)
 Open the frontend/ directory in VS Code.
 
 # If it's a web app:
@@ -59,7 +59,7 @@ Click "Load unpacked" and select the frontend/ folder
 
 --- 
 
-## 🔑 Environment Variables
+##### 🔑 Environment Variables
 <br>
 
 Make sure to add your API keys (like Gemini/OpenAI) in the appropriate config file:
