@@ -1,12 +1,13 @@
 
 # 📧 Email Assistant
 
-A full-stack Email Assistant built with:
+A full-stack Email Assistant Crome Extension built with:
 
 - 🔧 **Backend**: Java Spring Boot
 - 💻 **Frontend**: JavaScript (Vanilla/Extension)
 
-This app uses AI (like Gemini) to help users compose professional email replys faster and more efficiently.
+This extension uses AI (like Gemini) to help users compose professional email replys faster and more efficiently.
+It adds a button left to send button on your gmail inbox by clicking on this button you can auto generate a reply for your following mail
 
 ---
 
