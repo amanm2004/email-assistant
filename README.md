@@ -32,8 +32,11 @@ Enable "Developer mode"
 
 Click "Load unpacked" and select the frontend/ folder
 
+--- 
 
-🔑 Environment Variables
+## 🔑 Environment Variables
+<br>
+
 Make sure to add your API keys (like Gemini/OpenAI) in the appropriate config file:
 
 backend/src/main/resources/application.properties
