@@ -41,13 +41,14 @@ mvn spring-boot:run # If using Maven
 ### 🌐 Frontend (JavaScript)
 Open the frontend/ directory in VS Code.
 
-If it's a web app:
+# If it's a web app:
 
 npm install
 npm run dev  # Or npm run start
 
 
 ---
+
 Browser extension, load it manually in Chrome:
 
 Go to chrome://extensions/
