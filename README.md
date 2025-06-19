@@ -24,6 +24,30 @@ email-assistant/
 
 ---
 
+
+### ⚙️ Backend (Spring Boot)
+
+1. Open the `backend/` directory in your IDE (Eclipse/IntelliJ).
+2. Configure application properties (e.g., API keys, ports).
+3. Run the main class:
+
+```bash
+./gradlew bootRun   # If using Gradle
+# or
+mvn spring-boot:run # If using Maven
+
+---
+
+🌐 Frontend (JavaScript)
+Open the frontend/ directory in VS Code.
+
+If it's a web app:
+
+npm install
+npm run dev  # Or npm run start
+
+
+---
 Browser extension, load it manually in Chrome:
 
 Go to chrome://extensions/
