@@ -24,3 +24,11 @@ email-assistant/
 
 ---
 
+Browser extension, load it manually in Chrome:
+
+Go to chrome://extensions/
+
+Enable "Developer mode"
+
+Click "Load unpacked" and select the frontend/ folder
+
